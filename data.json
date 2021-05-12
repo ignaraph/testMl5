@@ -1,0 +1,3917 @@
+{
+  "catPose": {
+    "level": "begginer",
+    "description": "This pose stretches the back torso and provides a gentle massage to the spine and belly organs.",
+    "imageResolution": "1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/2hp_286_0574_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8543517944567344,
+    "keypoints": [
+      {
+        "score": 0.9358257055282593,
+        "part": "nose",
+        "position": {
+          "x": 713.5308226633497,
+          "y": 364.0899681747844
+        }
+      },
+      {
+        "score": 0.35960471630096436,
+        "part": "leftEye",
+        "position": {
+          "x": 718.5849927228708,
+          "y": 367.5384332221057
+        }
+      },
+      {
+        "score": 0.964011013507843,
+        "part": "rightEye",
+        "position": {
+          "x": 719.2685910007013,
+          "y": 354.32953161584874
+        }
+      },
+      {
+        "score": 0.08080483227968216,
+        "part": "leftEar",
+        "position": {
+          "x": 687.7132875346289,
+          "y": 341.89652132209756
+        }
+      },
+      {
+        "score": 0.9750004410743713,
+        "part": "rightEar",
+        "position": {
+          "x": 702.924633082721,
+          "y": 310.86944408020565
+        }
+      },
+      {
+        "score": 0.9515947103500366,
+        "part": "leftShoulder",
+        "position": {
+          "x": 656.1115226406018,
+          "y": 277.3018617714902
+        }
+      },
+      {
+        "score": 0.9987046718597412,
+        "part": "rightShoulder",
+        "position": {
+          "x": 644.726437984659,
+          "y": 243.29306546446128
+        }
+      },
+      {
+        "score": 0.8672638535499573,
+        "part": "leftElbow",
+        "position": {
+          "x": 660.3044848343031,
+          "y": 419.4953905779106
+        }
+      },
+      {
+        "score": 0.9964240193367004,
+        "part": "rightElbow",
+        "position": {
+          "x": 644.0098467637241,
+          "y": 378.33768723485025
+        }
+      },
+      {
+        "score": 0.9545998573303223,
+        "part": "leftWrist",
+        "position": {
+          "x": 669.0559477763643,
+          "y": 481.6106861691801
+        }
+      },
+      {
+        "score": 0.9981299042701721,
+        "part": "rightWrist",
+        "position": {
+          "x": 647.4002229141553,
+          "y": 498.84855420936117
+        }
+      },
+      {
+        "score": 0.9515148401260376,
+        "part": "leftHip",
+        "position": {
+          "x": 499.51989284255035,
+          "y": 311.53526202012245
+        }
+      },
+      {
+        "score": 0.9942441582679749,
+        "part": "rightHip",
+        "position": {
+          "x": 469.52422054302093,
+          "y": 312.79577654830075
+        }
+      },
+      {
+        "score": 0.9025887846946716,
+        "part": "leftKnee",
+        "position": {
+          "x": 475.0077833407711,
+          "y": 474.0164470729205
+        }
+      },
+      {
+        "score": 0.9925500154495239,
+        "part": "rightKnee",
+        "position": {
+          "x": 441.08207498884343,
+          "y": 484.99234171790965
+        }
+      },
+      {
+        "score": 0.6533284187316895,
+        "part": "leftAnkle",
+        "position": {
+          "x": 330.34266644486337,
+          "y": 481.81421532333786
+        }
+      },
+      {
+        "score": 0.9477905631065369,
+        "part": "rightAnkle",
+        "position": {
+          "x": 331.15501471726054,
+          "y": 482.10364240425633
+        }
+      }
+    ]
+  },
+  "easyPose": {
+    "level":"begginer",
+    "description": "Don't let the name fool you. If you're used to sitting in chairs, Easy Pose or Sukhasana can be quite challenging. This pose calms the brain, strengthens the back and stretches the knees and ankles.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/2hp_286_0507_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9928171108750736,
+    "keypoints": [
+      {
+        "score": 0.9993172883987427,
+        "part": "nose",
+        "position": {
+          "x": 532.2331468712329,
+          "y": 202.5026447963998
+        }
+      },
+      {
+        "score": 0.9993570446968079,
+        "part": "leftEye",
+        "position": {
+          "x": 529.4191055977027,
+          "y": 190.48037484279376
+        }
+      },
+      {
+        "score": 0.999583899974823,
+        "part": "rightEye",
+        "position": {
+          "x": 517.2133154260653,
+          "y": 187.9027587709512
+        }
+      },
+      {
+        "score": 0.9913318157196045,
+        "part": "leftEar",
+        "position": {
+          "x": 559.3396353792366,
+          "y": 197.92709042693463
+        }
+      },
+      {
+        "score": 0.9867356419563293,
+        "part": "rightEar",
+        "position": {
+          "x": 511.6444360750012,
+          "y": 192.84748527911722
+        }
+      },
+      {
+        "score": 0.9990127086639404,
+        "part": "leftShoulder",
+        "position": {
+          "x": 596.4377048390555,
+          "y": 275.00248134171574
+        }
+      },
+      {
+        "score": 0.9998502731323242,
+        "part": "rightShoulder",
+        "position": {
+          "x": 462.45951576119717,
+          "y": 282.33737943292726
+        }
+      },
+      {
+        "score": 0.997925341129303,
+        "part": "leftElbow",
+        "position": {
+          "x": 628.9015496590725,
+          "y": 367.0644200718368
+        }
+      },
+      {
+        "score": 0.9982517957687378,
+        "part": "rightElbow",
+        "position": {
+          "x": 418.65045881412857,
+          "y": 370.8686856685831
+        }
+      },
+      {
+        "score": 0.993546187877655,
+        "part": "leftWrist",
+        "position": {
+          "x": 685.4626940265962,
+          "y": 414.16225815951293
+        }
+      },
+      {
+        "score": 0.9738786816596985,
+        "part": "rightWrist",
+        "position": {
+          "x": 399.01396505203024,
+          "y": 422.46514303960157
+        }
+      },
+      {
+        "score": 0.9976487755775452,
+        "part": "leftHip",
+        "position": {
+          "x": 576.8317089590191,
+          "y": 462.5619851856628
+        }
+      },
+      {
+        "score": 0.99762362241745,
+        "part": "rightHip",
+        "position": {
+          "x": 473.18411173381867,
+          "y": 467.1536242204887
+        }
+      },
+      {
+        "score": 0.9972636699676514,
+        "part": "leftKnee",
+        "position": {
+          "x": 631.1902715756561,
+          "y": 415.28673130114646
+        }
+      },
+      {
+        "score": 0.9641428589820862,
+        "part": "rightKnee",
+        "position": {
+          "x": 389.8004313392526,
+          "y": 465.8605043315039
+        }
+      },
+      {
+        "score": 0.9875892400741577,
+        "part": "leftAnkle",
+        "position": {
+          "x": 477.14311956298104,
+          "y": 509.0028712784855
+        }
+      },
+      {
+        "score": 0.9948320388793945,
+        "part": "rightAnkle",
+        "position": {
+          "x": 557.3299242693168,
+          "y": 517.5616573707287
+        }
+      }
+    ]
+  },
+  "cowPose": {
+    "level": "begginer",
+    "description": "Cow Pose is an easy, gentle way to warm up the spine, it stretches the front torso and neck. It also provides a gentle massage to the spine and belly organs.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/3hp_288_02_bjk2.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8532049156287137,
+    "keypoints": [
+      {
+        "score": 0.9865140318870544,
+        "part": "nose",
+        "position": {
+          "x": 368.3860491291352,
+          "y": 233.05343184202292
+        }
+      },
+      {
+        "score": 0.9883990287780762,
+        "part": "leftEye",
+        "position": {
+          "x": 388.31739612432193,
+          "y": 238.2927693443412
+        }
+      },
+      {
+        "score": 0.4652464687824249,
+        "part": "rightEye",
+        "position": {
+          "x": 368.7959658568974,
+          "y": 223.16300986994622
+        }
+      },
+      {
+        "score": 0.9971089959144592,
+        "part": "leftEar",
+        "position": {
+          "x": 401.4266406322445,
+          "y": 248.32630607989847
+        }
+      },
+      {
+        "score": 0.165840283036232,
+        "part": "rightEar",
+        "position": {
+          "x": 406.89019449386825,
+          "y": 247.37532446433954
+        }
+      },
+      {
+        "score": 0.9984130263328552,
+        "part": "leftShoulder",
+        "position": {
+          "x": 420.5113383216745,
+          "y": 291.5551038793004
+        }
+      },
+      {
+        "score": 0.9645266532897949,
+        "part": "rightShoulder",
+        "position": {
+          "x": 405.6368017904129,
+          "y": 261.9073351398774
+        }
+      },
+      {
+        "score": 0.9920808672904968,
+        "part": "leftElbow",
+        "position": {
+          "x": 432.1831369824509,
+          "y": 391.5737680497439
+        }
+      },
+      {
+        "score": 0.739558756351471,
+        "part": "rightElbow",
+        "position": {
+          "x": 393.33818565844075,
+          "y": 365.0082959817496
+        }
+      },
+      {
+        "score": 0.997809112071991,
+        "part": "leftWrist",
+        "position": {
+          "x": 436.7954632224245,
+          "y": 486.433372701311
+        }
+      },
+      {
+        "score": 0.8954600691795349,
+        "part": "rightWrist",
+        "position": {
+          "x": 376.8537776052775,
+          "y": 447.34269420046485
+        }
+      },
+      {
+        "score": 0.9316278100013733,
+        "part": "leftHip",
+        "position": {
+          "x": 527.3702971234874,
+          "y": 331.9392898514292
+        }
+      },
+      {
+        "score": 0.9543298482894897,
+        "part": "rightHip",
+        "position": {
+          "x": 519.9550726010467,
+          "y": 330.9030401303436
+        }
+      },
+      {
+        "score": 0.9478196501731873,
+        "part": "leftKnee",
+        "position": {
+          "x": 590.861170737609,
+          "y": 328.271114089015
+        }
+      },
+      {
+        "score": 0.9224335551261902,
+        "part": "rightKnee",
+        "position": {
+          "x": 590.3983490261904,
+          "y": 479.4446340498656
+        }
+      },
+      {
+        "score": 0.684546709060669,
+        "part": "leftAnkle",
+        "position": {
+          "x": 609.0797188869217,
+          "y": 438.5209819669186
+        }
+      },
+      {
+        "score": 0.8727687001228333,
+        "part": "rightAnkle",
+        "position": {
+          "x": 732.8003486610662,
+          "y": 468.7287102311585
+        }
+      }
+    ]
+  },
+  "chairPose": {
+    "level": "begginer",
+    "description": "The chair pose works the muscles of the arms and legs, it stretches the ankles, thighs, calves spine, chest, and shoulders. It also stimulates the diaphragm and heart.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/hp_292_267_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8843567522571367,
+    "keypoints": [
+      {
+        "score": 0.953014612197876,
+        "part": "nose",
+        "position": {
+          "x": 584.3631597230273,
+          "y": 229.8808769429827
+        }
+      },
+      {
+        "score": 0.3761933147907257,
+        "part": "leftEye",
+        "position": {
+          "x": 595.5916611306392,
+          "y": 221.55822536570383
+        }
+      },
+      {
+        "score": 0.986924409866333,
+        "part": "rightEye",
+        "position": {
+          "x": 602.6187219817843,
+          "y": 207.12466059381956
+        }
+      },
+      {
+        "score": 0.02489452436566353,
+        "part": "leftEar",
+        "position": {
+          "x": 596.6267481048312,
+          "y": 210.92563174103418
+        }
+      },
+      {
+        "score": 0.9920514822006226,
+        "part": "rightEar",
+        "position": {
+          "x": 598.4918910176535,
+          "y": 194.95055527503132
+        }
+      },
+      {
+        "score": 0.9794369339942932,
+        "part": "leftShoulder",
+        "position": {
+          "x": 589.5520146310506,
+          "y": 245.92189084740704
+        }
+      },
+      {
+        "score": 0.9955437779426575,
+        "part": "rightShoulder",
+        "position": {
+          "x": 555.0849022568157,
+          "y": 237.00347683054758
+        }
+      },
+      {
+        "score": 0.9618405699729919,
+        "part": "leftElbow",
+        "position": {
+          "x": 666.8928994198582,
+          "y": 188.57419665418678
+        }
+      },
+      {
+        "score": 0.9016402959823608,
+        "part": "rightElbow",
+        "position": {
+          "x": 583.6603276736658,
+          "y": 214.9640939412556
+        }
+      },
+      {
+        "score": 0.9990122318267822,
+        "part": "leftWrist",
+        "position": {
+          "x": 658.0370314963141,
+          "y": 100.22672554717929
+        }
+      },
+      {
+        "score": 0.9752562642097473,
+        "part": "rightWrist",
+        "position": {
+          "x": 663.5567363433386,
+          "y": 109.92984837382062
+        }
+      },
+      {
+        "score": 0.9950407147407532,
+        "part": "leftHip",
+        "position": {
+          "x": 440.2581719191916,
+          "y": 385.1261427338824
+        }
+      },
+      {
+        "score": 0.9981479644775391,
+        "part": "rightHip",
+        "position": {
+          "x": 450.8209038346741,
+          "y": 403.759791524191
+        }
+      },
+      {
+        "score": 0.9441069960594177,
+        "part": "leftKnee",
+        "position": {
+          "x": 590.8385456209721,
+          "y": 399.9455941310623
+        }
+      },
+      {
+        "score": 0.996181845664978,
+        "part": "rightKnee",
+        "position": {
+          "x": 571.0043606630773,
+          "y": 398.74554244134833
+        }
+      },
+      {
+        "score": 0.9605485796928406,
+        "part": "leftAnkle",
+        "position": {
+          "x": 557.016951563804,
+          "y": 521.8828608572306
+        }
+      },
+      {
+        "score": 0.9942302703857422,
+        "part": "rightAnkle",
+        "position": {
+          "x": 546.8587586717011,
+          "y": 532.1450711485187
+        }
+      }
+    ]
+  },
+  "heroPose": {
+    "level":"begginer",
+    "description": "The hero pose is a balm for tired legs at the end of the day, as well as an alternative to Lotus for seated meditation. It helps strengthen the thighs, knees, ankles, and arches while also helping to improve digestion and relieve gas.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/hero-pose-virasana.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8197390838142704,
+    "keypoints": [
+      {
+        "score": 0.9977009892463684,
+        "part": "nose",
+        "position": {
+          "x": 564.9979493455293,
+          "y": 95.8347640674263
+        }
+      },
+      {
+        "score": 0.9989446997642517,
+        "part": "leftEye",
+        "position": {
+          "x": 567.6022117003489,
+          "y": 81.46100808887877
+        }
+      },
+      {
+        "score": 0.5447837710380554,
+        "part": "rightEye",
+        "position": {
+          "x": 573.9792485902148,
+          "y": 77.26625332704992
+        }
+      },
+      {
+        "score": 0.9998155832290649,
+        "part": "leftEar",
+        "position": {
+          "x": 651.338737329319,
+          "y": 101.35873231972715
+        }
+      },
+      {
+        "score": 0.03188818320631981,
+        "part": "rightEar",
+        "position": {
+          "x": 638.8370765210614,
+          "y": 91.77827929035493
+        }
+      },
+      {
+        "score": 0.9939519762992859,
+        "part": "leftShoulder",
+        "position": {
+          "x": 642.2182960397058,
+          "y": 211.34310632360445
+        }
+      },
+      {
+        "score": 0.9657312035560608,
+        "part": "rightShoulder",
+        "position": {
+          "x": 611.215345795855,
+          "y": 208.3504380585532
+        }
+      },
+      {
+        "score": 0.9985338449478149,
+        "part": "leftElbow",
+        "position": {
+          "x": 512.4573899447388,
+          "y": 345.39668015839436
+        }
+      },
+      {
+        "score": 0.6798121929168701,
+        "part": "rightElbow",
+        "position": {
+          "x": 535.5758503990287,
+          "y": 345.3860216452035
+        }
+      },
+      {
+        "score": 0.9988409876823425,
+        "part": "leftWrist",
+        "position": {
+          "x": 396.9111615189459,
+          "y": 448.6116870914086
+        }
+      },
+      {
+        "score": 0.4062953293323517,
+        "part": "rightWrist",
+        "position": {
+          "x": 404.3754152020644,
+          "y": 461.3045713158673
+        }
+      },
+      {
+        "score": 0.9808593392372131,
+        "part": "leftHip",
+        "position": {
+          "x": 616.5790487679955,
+          "y": 499.70559556547903
+        }
+      },
+      {
+        "score": 0.920371949672699,
+        "part": "rightHip",
+        "position": {
+          "x": 616.0669556569629,
+          "y": 452.2424611620804
+        }
+      },
+      {
+        "score": 0.9114241003990173,
+        "part": "leftKnee",
+        "position": {
+          "x": 368.5467504393807,
+          "y": 526.1720403563729
+        }
+      },
+      {
+        "score": 0.7438172101974487,
+        "part": "rightKnee",
+        "position": {
+          "x": 394.491024979498,
+          "y": 502.9713640071518
+        }
+      },
+      {
+        "score": 0.8985257744789124,
+        "part": "leftAnkle",
+        "position": {
+          "x": 584.201683248186,
+          "y": 562.3058535069316
+        }
+      },
+      {
+        "score": 0.8642672896385193,
+        "part": "rightAnkle",
+        "position": {
+          "x": 584.0716009394705,
+          "y": 565.7513147914445
+        }
+      }
+    ]
+  },
+  "cobraPose": {
+    "level": "begginer",
+    "description": "The cobra pose, fights fatigue and relieves lower back pain, boosting both the energetic and the physical body, it strengthens the spine, chest, lungs, shoulders and abdomen while also soothing sciatica and stimulating abdominal organs.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/3yp_287_6710_gn_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.7991587046314689,
+    "keypoints": [
+      {
+        "score": 0.9786317944526672,
+        "part": "nose",
+        "position": {
+          "x": 699.0695457571692,
+          "y": 304.7331442450911
+        }
+      },
+      {
+        "score": 0.30552640557289124,
+        "part": "leftEye",
+        "position": {
+          "x": 718.7900237584327,
+          "y": 289.2190000268048
+        }
+      },
+      {
+        "score": 0.9888479709625244,
+        "part": "rightEye",
+        "position": {
+          "x": 685.7332264704945,
+          "y": 292.3278460856361
+        }
+      },
+      {
+        "score": 0.048472583293914795,
+        "part": "leftEar",
+        "position": {
+          "x": 666.5779888028561,
+          "y": 300.66454752121206
+        }
+      },
+      {
+        "score": 0.9955729246139526,
+        "part": "rightEar",
+        "position": {
+          "x": 666.598094634557,
+          "y": 298.4885636055152
+        }
+      },
+      {
+        "score": 0.9866405725479126,
+        "part": "leftShoulder",
+        "position": {
+          "x": 680.2947201148693,
+          "y": 365.70502360991986
+        }
+      },
+      {
+        "score": 0.9991545677185059,
+        "part": "rightShoulder",
+        "position": {
+          "x": 628.9068304678807,
+          "y": 357.19303808014195
+        }
+      },
+      {
+        "score": 0.9737411737442017,
+        "part": "leftElbow",
+        "position": {
+          "x": 692.0308574370886,
+          "y": 491.24244540523
+        }
+      },
+      {
+        "score": 0.9995712637901306,
+        "part": "rightElbow",
+        "position": {
+          "x": 640.1574240664701,
+          "y": 456.5220479993509
+        }
+      },
+      {
+        "score": 0.9770900011062622,
+        "part": "leftWrist",
+        "position": {
+          "x": 729.6298770168769,
+          "y": 525.0881664604391
+        }
+      },
+      {
+        "score": 0.9849238991737366,
+        "part": "rightWrist",
+        "position": {
+          "x": 668.95629067803,
+          "y": 525.2892732252353
+        }
+      },
+      {
+        "score": 0.9285696148872375,
+        "part": "leftHip",
+        "position": {
+          "x": 580.49329582237,
+          "y": 522.0585809815178
+        }
+      },
+      {
+        "score": 0.9751214385032654,
+        "part": "rightHip",
+        "position": {
+          "x": 580.8937167838349,
+          "y": 504.1596913323558
+        }
+      },
+      {
+        "score": 0.5705800652503967,
+        "part": "leftKnee",
+        "position": {
+          "x": 451.26851294090204,
+          "y": 523.2076171512774
+        }
+      },
+      {
+        "score": 0.8542047739028931,
+        "part": "rightKnee",
+        "position": {
+          "x": 460.435464106257,
+          "y": 507.92616765506193
+        }
+      },
+      {
+        "score": 0.5095809102058411,
+        "part": "leftAnkle",
+        "position": {
+          "x": 324.5739157475775,
+          "y": 522.4167554725171
+        }
+      },
+      {
+        "score": 0.5094680190086365,
+        "part": "rightAnkle",
+        "position": {
+          "x": 312.65488802856083,
+          "y": 520.4630015568493
+        }
+      }
+    ]
+  },
+  "highLungePose": {
+    "level":"begginer",
+    "description": "The high lunge pose counteracts the effects of modern-day sitting syndrome by lengthening your hip flexors, stretching the groin, and strengthening your legs and arms.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2008/04/3hp_288_07_bjk2.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9601372234961566,
+    "keypoints": [
+      {
+        "score": 0.9902702569961548,
+        "part": "nose",
+        "position": {
+          "x": 507.90349173616585,
+          "y": 216.0082406516599
+        }
+      },
+      {
+        "score": 0.9814406633377075,
+        "part": "leftEye",
+        "position": {
+          "x": 522.4324502011082,
+          "y": 213.69456812465228
+        }
+      },
+      {
+        "score": 0.9331450462341309,
+        "part": "rightEye",
+        "position": {
+          "x": 512.0021260881283,
+          "y": 210.97742242558422
+        }
+      },
+      {
+        "score": 0.8504852056503296,
+        "part": "leftEar",
+        "position": {
+          "x": 566.1830306689889,
+          "y": 237.05269978237436
+        }
+      },
+      {
+        "score": 0.9143767356872559,
+        "part": "rightEar",
+        "position": {
+          "x": 547.0392751269242,
+          "y": 241.9324578078635
+        }
+      },
+      {
+        "score": 0.9903879761695862,
+        "part": "leftShoulder",
+        "position": {
+          "x": 536.7484321933825,
+          "y": 268.8391960891135
+        }
+      },
+      {
+        "score": 0.9945142269134521,
+        "part": "rightShoulder",
+        "position": {
+          "x": 476.12450483644756,
+          "y": 240.7900589849546
+        }
+      },
+      {
+        "score": 0.9883213639259338,
+        "part": "leftElbow",
+        "position": {
+          "x": 547.9808578717602,
+          "y": 162.84410978141807
+        }
+      },
+      {
+        "score": 0.9780168533325195,
+        "part": "rightElbow",
+        "position": {
+          "x": 473.87022929658525,
+          "y": 155.25934222756229
+        }
+      },
+      {
+        "score": 0.9319859743118286,
+        "part": "leftWrist",
+        "position": {
+          "x": 551.3445877392144,
+          "y": 93.29055274487956
+        }
+      },
+      {
+        "score": 0.9942489862442017,
+        "part": "rightWrist",
+        "position": {
+          "x": 546.0046241828171,
+          "y": 93.78338786048778
+        }
+      },
+      {
+        "score": 0.9697412848472595,
+        "part": "leftHip",
+        "position": {
+          "x": 508.03362249266854,
+          "y": 398.4863467796621
+        }
+      },
+      {
+        "score": 0.9767380356788635,
+        "part": "rightHip",
+        "position": {
+          "x": 472.8662942495827,
+          "y": 367.52394733372364
+        }
+      },
+      {
+        "score": 0.9794683456420898,
+        "part": "leftKnee",
+        "position": {
+          "x": 372.36511434221126,
+          "y": 399.47637731172927
+        }
+      },
+      {
+        "score": 0.9438690543174744,
+        "part": "rightKnee",
+        "position": {
+          "x": 371.9729779523629,
+          "y": 383.53724910385176
+        }
+      },
+      {
+        "score": 0.9607101678848267,
+        "part": "leftAnkle",
+        "position": {
+          "x": 366.44556990716865,
+          "y": 502.737409642613
+        }
+      },
+      {
+        "score": 0.9446126222610474,
+        "part": "rightAnkle",
+        "position": {
+          "x": 395.67755973657444,
+          "y": 501.9894727033395
+        }
+      }
+    ]
+  },
+  "extendedSideAnglePose": {
+    "level":"begginer",
+    "description": "The extended side angle pose helps you find length in your side body. It strengthens and stretches the legs, knees, waist, chest and shoulders among others. It also stimulates abdominal organs and increases stamina.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/2hp_291_1875_gn_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9146000953281627,
+    "keypoints": [
+      {
+        "score": 0.9590680003166199,
+        "part": "nose",
+        "position": {
+          "x": 356.4847533002452,
+          "y": 309.5359671844574
+        }
+      },
+      {
+        "score": 0.9275293350219727,
+        "part": "leftEye",
+        "position": {
+          "x": 347.34943853995213,
+          "y": 320.732541500284
+        }
+      },
+      {
+        "score": 0.8215208053588867,
+        "part": "rightEye",
+        "position": {
+          "x": 357.3784938551906,
+          "y": 317.66729844996064
+        }
+      },
+      {
+        "score": 0.8698585629463196,
+        "part": "leftEar",
+        "position": {
+          "x": 367.7000526858367,
+          "y": 286.2920269612389
+        }
+      },
+      {
+        "score": 0.4667145013809204,
+        "part": "rightEar",
+        "position": {
+          "x": 353.03250932551987,
+          "y": 324.6112228982173
+        }
+      },
+      {
+        "score": 0.9953061938285828,
+        "part": "leftShoulder",
+        "position": {
+          "x": 408.3769117406285,
+          "y": 269.4088451713766
+        }
+      },
+      {
+        "score": 0.9930612444877625,
+        "part": "rightShoulder",
+        "position": {
+          "x": 405.48288317037975,
+          "y": 375.95831950835736
+        }
+      },
+      {
+        "score": 0.9991922974586487,
+        "part": "leftElbow",
+        "position": {
+          "x": 427.7995811937825,
+          "y": 180.58375155395146
+        }
+      },
+      {
+        "score": 0.9965353012084961,
+        "part": "rightElbow",
+        "position": {
+          "x": 372.9941846355133,
+          "y": 439.2334551259389
+        }
+      },
+      {
+        "score": 0.9949471950531006,
+        "part": "leftWrist",
+        "position": {
+          "x": 435.75068669078615,
+          "y": 111.6848694662666
+        }
+      },
+      {
+        "score": 0.9966906309127808,
+        "part": "rightWrist",
+        "position": {
+          "x": 370.7310431505877,
+          "y": 527.611133428285
+        }
+      },
+      {
+        "score": 0.9669188857078552,
+        "part": "leftHip",
+        "position": {
+          "x": 511.87383634754036,
+          "y": 381.6270497489047
+        }
+      },
+      {
+        "score": 0.9652292728424072,
+        "part": "rightHip",
+        "position": {
+          "x": 484.2655741071843,
+          "y": 435.7716184893419
+        }
+      },
+      {
+        "score": 0.9607586860656738,
+        "part": "leftKnee",
+        "position": {
+          "x": 652.0783896969759,
+          "y": 460.50203372038436
+        }
+      },
+      {
+        "score": 0.9681286215782166,
+        "part": "rightKnee",
+        "position": {
+          "x": 643.3356473566163,
+          "y": 472.969926420942
+        }
+      },
+      {
+        "score": 0.7314114570617676,
+        "part": "leftAnkle",
+        "position": {
+          "x": 707.8558426582496,
+          "y": 525.6664392488293
+        }
+      },
+      {
+        "score": 0.9353306293487549,
+        "part": "rightAnkle",
+        "position": {
+          "x": 390.7493296999606,
+          "y": 549.5710619465181
+        }
+      }
+    ]
+  },
+  "halfLordOfTheFishesPose": {
+    "level":"begginer",
+    "description": "The half lord of the fishes pose invites and energy in the spine that helps to stimulate proper digestion while improving postural and body awarness. It stimulates the liver and kidneys, energizes the spine,  and stretches the shoulders, hips, and neck.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/half-lord-of-the-fishes-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9319519085042617,
+    "keypoints": [
+      {
+        "score": 0.9998712539672852,
+        "part": "nose",
+        "position": {
+          "x": 453.5796177351864,
+          "y": 122.96564603630088
+        }
+      },
+      {
+        "score": 0.9995558857917786,
+        "part": "leftEye",
+        "position": {
+          "x": 464.094580132459,
+          "y": 103.18196789659453
+        }
+      },
+      {
+        "score": 0.9947400093078613,
+        "part": "rightEye",
+        "position": {
+          "x": 442.2557226345164,
+          "y": 101.93283859841551
+        }
+      },
+      {
+        "score": 0.9998611211776733,
+        "part": "leftEar",
+        "position": {
+          "x": 534.0456270393349,
+          "y": 124.4679876944432
+        }
+      },
+      {
+        "score": 0.6602315306663513,
+        "part": "rightEar",
+        "position": {
+          "x": 451.74223540444757,
+          "y": 115.03244199667915
+        }
+      },
+      {
+        "score": 0.9986390471458435,
+        "part": "leftShoulder",
+        "position": {
+          "x": 557.8319886883926,
+          "y": 225.00470405374864
+        }
+      },
+      {
+        "score": 0.999122679233551,
+        "part": "rightShoulder",
+        "position": {
+          "x": 398.9230770031847,
+          "y": 236.18320734493813
+        }
+      },
+      {
+        "score": 0.997744083404541,
+        "part": "leftElbow",
+        "position": {
+          "x": 670.2132200699532,
+          "y": 314.48970498104836
+        }
+      },
+      {
+        "score": 0.9994069337844849,
+        "part": "rightElbow",
+        "position": {
+          "x": 332.7004022343576,
+          "y": 381.19460480008
+        }
+      },
+      {
+        "score": 0.9867014288902283,
+        "part": "leftWrist",
+        "position": {
+          "x": 693.0666711280891,
+          "y": 168.8034540736711
+        }
+      },
+      {
+        "score": 0.9981322884559631,
+        "part": "rightWrist",
+        "position": {
+          "x": 258.2082231108442,
+          "y": 504.8392684438462
+        }
+      },
+      {
+        "score": 0.6458209156990051,
+        "part": "leftHip",
+        "position": {
+          "x": 548.9399302677868,
+          "y": 509.9418378428112
+        }
+      },
+      {
+        "score": 0.9834874868392944,
+        "part": "rightHip",
+        "position": {
+          "x": 450.43603461291036,
+          "y": 504.6916964839404
+        }
+      },
+      {
+        "score": 0.9705012440681458,
+        "part": "leftKnee",
+        "position": {
+          "x": 661.2492651330965,
+          "y": 311.7374830840249
+        }
+      },
+      {
+        "score": 0.8803671002388,
+        "part": "rightKnee",
+        "position": {
+          "x": 617.0318902352444,
+          "y": 268.85610436685715
+        }
+      },
+      {
+        "score": 0.798150897026062,
+        "part": "leftAnkle",
+        "position": {
+          "x": 593.2332228482301,
+          "y": 549.3232999626183
+        }
+      },
+      {
+        "score": 0.9308485388755798,
+        "part": "rightAnkle",
+        "position": {
+          "x": 695.9903981919105,
+          "y": 411.7077479150246
+        }
+      }
+    ]
+  },
+  "halfMoonPose": {
+    "level": "intermediate",
+    "description": "The half moon pose provides leg and ankle strength, stretches the groin, hamstrings, calves, shoulders and chest. It also improves coordination and helps relieve stress.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/2hp_291_1860_gn_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9425957378219155,
+    "keypoints": [
+      {
+        "score": 0.9802383184432983,
+        "part": "nose",
+        "position": {
+          "x": 309.22102998908974,
+          "y": 332.23186603851775
+        }
+      },
+      {
+        "score": 0.9660350680351257,
+        "part": "leftEye",
+        "position": {
+          "x": 299.72007977856373,
+          "y": 326.6625991051558
+        }
+      },
+      {
+        "score": 0.9479501247406006,
+        "part": "rightEye",
+        "position": {
+          "x": 287.80342600112147,
+          "y": 347.6762938909785
+        }
+      },
+      {
+        "score": 0.932183563709259,
+        "part": "leftEar",
+        "position": {
+          "x": 307.1522852504289,
+          "y": 309.20967133745603
+        }
+      },
+      {
+        "score": 0.6924418807029724,
+        "part": "rightEar",
+        "position": {
+          "x": 294.559784841113,
+          "y": 351.47944518861857
+        }
+      },
+      {
+        "score": 0.9971222877502441,
+        "part": "leftShoulder",
+        "position": {
+          "x": 331.1588178685582,
+          "y": 298.161056563833
+        }
+      },
+      {
+        "score": 0.9938574433326721,
+        "part": "rightShoulder",
+        "position": {
+          "x": 348.7816035782902,
+          "y": 359.4552106093229
+        }
+      },
+      {
+        "score": 0.9974331259727478,
+        "part": "leftElbow",
+        "position": {
+          "x": 349.26380440460116,
+          "y": 153.977777135832
+        }
+      },
+      {
+        "score": 0.9799280166625977,
+        "part": "rightElbow",
+        "position": {
+          "x": 380.967212756239,
+          "y": 429.2262255388481
+        }
+      },
+      {
+        "score": 0.9472748041152954,
+        "part": "leftWrist",
+        "position": {
+          "x": 521.7782112823396,
+          "y": 545.7624360489209
+        }
+      },
+      {
+        "score": 0.9938256144523621,
+        "part": "rightWrist",
+        "position": {
+          "x": 349.08260968035694,
+          "y": 522.3310997846926
+        }
+      },
+      {
+        "score": 0.968903660774231,
+        "part": "leftHip",
+        "position": {
+          "x": 504.6811809596393,
+          "y": 253.5896252368961
+        }
+      },
+      {
+        "score": 0.9463437795639038,
+        "part": "rightHip",
+        "position": {
+          "x": 475.13224570616774,
+          "y": 281.11523555223596
+        }
+      },
+      {
+        "score": 0.8799146413803101,
+        "part": "leftKnee",
+        "position": {
+          "x": 548.0490239083944,
+          "y": 380.6587722733042
+        }
+      },
+      {
+        "score": 0.9556591510772705,
+        "part": "rightKnee",
+        "position": {
+          "x": 529.47181679021,
+          "y": 419.44810553757304
+        }
+      },
+      {
+        "score": 0.9756535887718201,
+        "part": "leftAnkle",
+        "position": {
+          "x": 530.9999084472656,
+          "y": 544.0698641542158
+        }
+      },
+      {
+        "score": 0.869362473487854,
+        "part": "rightAnkle",
+        "position": {
+          "x": 521.2207225946715,
+          "y": 547.1992520748331
+        }
+      }
+    ]
+  },
+  "revolvedSideAnglePose": {
+    "level":"intermediate",
+    "description": "This revolved variation of Utthita Parsvakonasana requires a lot of flexibility to twist so deeply and ground the back heel. It helps with increasing taming and improving balance as well as strengthening and stretching the legs, knees, ankles, chest and spine.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/revolved-side-angle-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8878605874145732,
+    "keypoints": [
+      {
+        "score": 0.9838634133338928,
+        "part": "nose",
+        "position": {
+          "x": 315.3458719225241,
+          "y": 295.32521378604883
+        }
+      },
+      {
+        "score": 0.9614154100418091,
+        "part": "leftEye",
+        "position": {
+          "x": 300.0132615629926,
+          "y": 279.76606157342474
+        }
+      },
+      {
+        "score": 0.848983108997345,
+        "part": "rightEye",
+        "position": {
+          "x": 299.0893622604959,
+          "y": 287.7092700811098
+        }
+      },
+      {
+        "score": 0.8875226378440857,
+        "part": "leftEar",
+        "position": {
+          "x": 297.83921555878504,
+          "y": 248.32015321092013
+        }
+      },
+      {
+        "score": 0.1844606101512909,
+        "part": "rightEar",
+        "position": {
+          "x": 292.12402389028307,
+          "y": 281.7698136055152
+        }
+      },
+      {
+        "score": 0.995144784450531,
+        "part": "leftShoulder",
+        "position": {
+          "x": 340.2803976811712,
+          "y": 212.97734708248333
+        }
+      },
+      {
+        "score": 0.9819336533546448,
+        "part": "rightShoulder",
+        "position": {
+          "x": 313.30672878186147,
+          "y": 342.9001172345895
+        }
+      },
+      {
+        "score": 0.989452600479126,
+        "part": "leftElbow",
+        "position": {
+          "x": 259.7425645324526,
+          "y": 136.3254867236763
+        }
+      },
+      {
+        "score": 0.9572120308876038,
+        "part": "rightElbow",
+        "position": {
+          "x": 390.64778313792425,
+          "y": 395.5795279935843
+        }
+      },
+      {
+        "score": 0.8191612958908081,
+        "part": "leftWrist",
+        "position": {
+          "x": 373.9772386862192,
+          "y": 533.478354253118
+        }
+      },
+      {
+        "score": 0.9447347521781921,
+        "part": "rightWrist",
+        "position": {
+          "x": 386.8258825466258,
+          "y": 531.7222188615658
+        }
+      },
+      {
+        "score": 0.9792612791061401,
+        "part": "leftHip",
+        "position": {
+          "x": 471.66052572097556,
+          "y": 322.77500331437204
+        }
+      },
+      {
+        "score": 0.9559972882270813,
+        "part": "rightHip",
+        "position": {
+          "x": 475.25636893705376,
+          "y": 336.1322520451306
+        }
+      },
+      {
+        "score": 0.9754395484924316,
+        "part": "leftKnee",
+        "position": {
+          "x": 357.0847549212085,
+          "y": 356.3799388670426
+        }
+      },
+      {
+        "score": 0.9193522930145264,
+        "part": "rightKnee",
+        "position": {
+          "x": 365.9837898231756,
+          "y": 353.3694902640776
+        }
+      },
+      {
+        "score": 0.949919581413269,
+        "part": "leftAnkle",
+        "position": {
+          "x": 365.6409490568348,
+          "y": 545.767280827644
+        }
+      },
+      {
+        "score": 0.759775698184967,
+        "part": "rightAnkle",
+        "position": {
+          "x": 389.7400653963627,
+          "y": 517.0868206080768
+        }
+      }
+    ]
+  },
+  "noosePose": {
+    "level":"intermediate",
+    "description": "In the noose pose, the arms are wrapped around the squatting legs and the hands are clasped behind the back, forming a \"noose\". This pose stretches and strengthens the ankles, thighs, groins and spine. It also stimulates the abdominal organs and improves overall posture.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/noose-pose-pasasana.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8825195449240067,
+    "keypoints": [
+      {
+        "score": 0.9992213249206543,
+        "part": "nose",
+        "position": {
+          "x": 506.77887325117075,
+          "y": 71.20000899227153
+        }
+      },
+      {
+        "score": 0.998275637626648,
+        "part": "leftEye",
+        "position": {
+          "x": 516.6613982339287,
+          "y": 64.08622660198267
+        }
+      },
+      {
+        "score": 0.8797762989997864,
+        "part": "rightEye",
+        "position": {
+          "x": 513.6483334504533,
+          "y": 38.940202028178305
+        }
+      },
+      {
+        "score": 0.9996482133865356,
+        "part": "leftEar",
+        "position": {
+          "x": 578.4699708842383,
+          "y": 120.67798997103637
+        }
+      },
+      {
+        "score": 0.15723028779029846,
+        "part": "rightEar",
+        "position": {
+          "x": 525.127116126901,
+          "y": 74.85398955302708
+        }
+      },
+      {
+        "score": 0.9883478283882141,
+        "part": "leftShoulder",
+        "position": {
+          "x": 552.3732311577047,
+          "y": 220.99346950995113
+        }
+      },
+      {
+        "score": 0.9658353924751282,
+        "part": "rightShoulder",
+        "position": {
+          "x": 413.7071857395795,
+          "y": 144.05305413039576
+        }
+      },
+      {
+        "score": 0.9912877678871155,
+        "part": "leftElbow",
+        "position": {
+          "x": 563.9131064938508,
+          "y": 399.59546197274324
+        }
+      },
+      {
+        "score": 0.9921918511390686,
+        "part": "rightElbow",
+        "position": {
+          "x": 393.59486203519106,
+          "y": 116.8462060311428
+        }
+      },
+      {
+        "score": 0.7057672142982483,
+        "part": "leftWrist",
+        "position": {
+          "x": 507.862844042679,
+          "y": 500.8421806539202
+        }
+      },
+      {
+        "score": 0.4990103840827942,
+        "part": "rightWrist",
+        "position": {
+          "x": 403.1719237194571,
+          "y": 197.5221638212572
+        }
+      },
+      {
+        "score": 0.8980884552001953,
+        "part": "leftHip",
+        "position": {
+          "x": 383.26664163380065,
+          "y": 358.89699520484635
+        }
+      },
+      {
+        "score": 0.98756343126297,
+        "part": "rightHip",
+        "position": {
+          "x": 310.195242318626,
+          "y": 346.0516457939714
+        }
+      },
+      {
+        "score": 0.9815910458564758,
+        "part": "leftKnee",
+        "position": {
+          "x": 580.6822906403585,
+          "y": 374.8130138182145
+        }
+      },
+      {
+        "score": 0.9679312705993652,
+        "part": "rightKnee",
+        "position": {
+          "x": 496.65769446851243,
+          "y": 352.72968878590393
+        }
+      },
+      {
+        "score": 0.9979993104934692,
+        "part": "leftAnkle",
+        "position": {
+          "x": 467.1516839545276,
+          "y": 533.8734944057747
+        }
+      },
+      {
+        "score": 0.9930665493011475,
+        "part": "rightAnkle",
+        "position": {
+          "x": 431.14921275515235,
+          "y": 545.9720211764826
+        }
+      }
+    ]
+  },
+  "fireLogPose": {
+    "level":"intermediate",
+    "description": "The fire log pose stretches the outer hips intensely, particularly the piriformis, which is often the main culprit of sciatic pain. This pose helps with stretching out the hip and groins.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/fire-log-pose-agnistambhasana.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9921409207231858,
+    "keypoints": [
+      {
+        "score": 0.9994599223136902,
+        "part": "nose",
+        "position": {
+          "x": 546.4030587850056,
+          "y": 163.83767700195312
+        }
+      },
+      {
+        "score": 0.9999392032623291,
+        "part": "leftEye",
+        "position": {
+          "x": 551.8828426553517,
+          "y": 138.26817031996188
+        }
+      },
+      {
+        "score": 0.9999034404754639,
+        "part": "rightEye",
+        "position": {
+          "x": 526.2992618911699,
+          "y": 143.14097608798335
+        }
+      },
+      {
+        "score": 0.9909086227416992,
+        "part": "leftEar",
+        "position": {
+          "x": 590.8424214439506,
+          "y": 137.39853253916397
+        }
+      },
+      {
+        "score": 0.9978020787239075,
+        "part": "rightEar",
+        "position": {
+          "x": 504.1937962200946,
+          "y": 147.65165887034613
+        }
+      },
+      {
+        "score": 0.9991738200187683,
+        "part": "leftShoulder",
+        "position": {
+          "x": 630.2024696418016,
+          "y": 252.43637410964743
+        }
+      },
+      {
+        "score": 0.9998544454574585,
+        "part": "rightShoulder",
+        "position": {
+          "x": 448.267705447596,
+          "y": 264.50350671422945
+        }
+      },
+      {
+        "score": 0.9984032511711121,
+        "part": "leftElbow",
+        "position": {
+          "x": 683.6714339893014,
+          "y": 427.14757322769844
+        }
+      },
+      {
+        "score": 0.9991262555122375,
+        "part": "rightElbow",
+        "position": {
+          "x": 399.1380156112354,
+          "y": 449.2339989183919
+        }
+      },
+      {
+        "score": 0.9959936141967773,
+        "part": "leftWrist",
+        "position": {
+          "x": 597.6515641481303,
+          "y": 473.6476625165176
+        }
+      },
+      {
+        "score": 0.9916071891784668,
+        "part": "rightWrist",
+        "position": {
+          "x": 515.7725751293873,
+          "y": 495.0827077078891
+        }
+      },
+      {
+        "score": 0.9903080463409424,
+        "part": "leftHip",
+        "position": {
+          "x": 585.935968687697,
+          "y": 496.68245364225936
+        }
+      },
+      {
+        "score": 0.9822432994842529,
+        "part": "rightHip",
+        "position": {
+          "x": 492.517540362893,
+          "y": 504.19685078516204
+        }
+      },
+      {
+        "score": 0.9978511333465576,
+        "part": "leftKnee",
+        "position": {
+          "x": 674.7294743478475,
+          "y": 520.5609145348433
+        }
+      },
+      {
+        "score": 0.9784904718399048,
+        "part": "rightKnee",
+        "position": {
+          "x": 374.54870456050344,
+          "y": 506.47539866642717
+        }
+      },
+      {
+        "score": 0.9737972617149353,
+        "part": "leftAnkle",
+        "position": {
+          "x": 425.73958128071683,
+          "y": 581.7557990642966
+        }
+      },
+      {
+        "score": 0.9715335965156555,
+        "part": "rightAnkle",
+        "position": {
+          "x": 610.3512310628014,
+          "y": 577.6465061991435
+        }
+      }
+    ]
+  },
+  "extendedHandToBigToePose": {
+    "level":"intermediate",
+    "description": "The extended hand to big toe pose aids in strengthening and stretching the legs and ankles. It also improves the overall sense of balance.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/2yp_285_1542_prf.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9851571637041429,
+    "keypoints": [
+      {
+        "score": 0.9974488019943237,
+        "part": "nose",
+        "position": {
+          "x": 610.642789846358,
+          "y": 161.6830343365316
+        }
+      },
+      {
+        "score": 0.9966492056846619,
+        "part": "leftEye",
+        "position": {
+          "x": 619.2043374624734,
+          "y": 152.53151379140974
+        }
+      },
+      {
+        "score": 0.9948157668113708,
+        "part": "rightEye",
+        "position": {
+          "x": 601.2634435817821,
+          "y": 156.94154629579992
+        }
+      },
+      {
+        "score": 0.9270259737968445,
+        "part": "leftEar",
+        "position": {
+          "x": 629.9439522491365,
+          "y": 158.27252813050586
+        }
+      },
+      {
+        "score": 0.9470824003219604,
+        "part": "rightEar",
+        "position": {
+          "x": 614.5946758507976,
+          "y": 154.7220804910632
+        }
+      },
+      {
+        "score": 0.9993877410888672,
+        "part": "leftShoulder",
+        "position": {
+          "x": 656.3765320367559,
+          "y": 209.59016848600936
+        }
+      },
+      {
+        "score": 0.9992080330848694,
+        "part": "rightShoulder",
+        "position": {
+          "x": 573.393950872676,
+          "y": 201.9479176326039
+        }
+      },
+      {
+        "score": 0.999329686164856,
+        "part": "leftElbow",
+        "position": {
+          "x": 690.653922876194,
+          "y": 255.36731989376625
+        }
+      },
+      {
+        "score": 0.9877722859382629,
+        "part": "rightElbow",
+        "position": {
+          "x": 513.051602055128,
+          "y": 203.24704504720535
+        }
+      },
+      {
+        "score": 0.998369038105011,
+        "part": "leftWrist",
+        "position": {
+          "x": 666.498728222946,
+          "y": 317.8772711598201
+        }
+      },
+      {
+        "score": 0.9495570063591003,
+        "part": "rightWrist",
+        "position": {
+          "x": 454.3853044368393,
+          "y": 191.72572521356875
+        }
+      },
+      {
+        "score": 0.9964385032653809,
+        "part": "leftHip",
+        "position": {
+          "x": 610.2433378406378,
+          "y": 335.4660949707031
+        }
+      },
+      {
+        "score": 0.996253252029419,
+        "part": "rightHip",
+        "position": {
+          "x": 578.868066351916,
+          "y": 313.0078809607984
+        }
+      },
+      {
+        "score": 0.9981114864349365,
+        "part": "leftKnee",
+        "position": {
+          "x": 595.9403883031285,
+          "y": 419.01740470908874
+        }
+      },
+      {
+        "score": 0.9798818826675415,
+        "part": "rightKnee",
+        "position": {
+          "x": 577.4521313223004,
+          "y": 416.2514236404917
+        }
+      },
+      {
+        "score": 0.9909145832061768,
+        "part": "leftAnkle",
+        "position": {
+          "x": 603.1400201723908,
+          "y": 528.7664678103846
+        }
+      },
+      {
+        "score": 0.9894261360168457,
+        "part": "rightAnkle",
+        "position": {
+          "x": 592.1164044569791,
+          "y": 531.8813698426198
+        }
+      }
+    ]
+  },
+  "eaglePose": {
+    "level":"intermediate",
+    "description": "You need strength, flexibility, endurance, and unwavering concentration for the eagle pose. This pose helps in strengthening and stretching the ankles, calves, hips, shoulders, and upper back. It also improves concentration and overall sense of balance.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/eaglehp2_292_37370_cmyk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9408066351624096,
+    "keypoints": [
+      {
+        "score": 0.9951964020729065,
+        "part": "nose",
+        "position": {
+          "x": 514.4718489378072,
+          "y": 96.70120429426697
+        }
+      },
+      {
+        "score": 0.9988805651664734,
+        "part": "leftEye",
+        "position": {
+          "x": 528.4207904940189,
+          "y": 83.71882031720895
+        }
+      },
+      {
+        "score": 0.9327217936515808,
+        "part": "rightEye",
+        "position": {
+          "x": 515.2424109937176,
+          "y": 87.69815199311483
+        }
+      },
+      {
+        "score": 0.9989584684371948,
+        "part": "leftEar",
+        "position": {
+          "x": 570.2194580621465,
+          "y": 101.27380334871106
+        }
+      },
+      {
+        "score": 0.14546222984790802,
+        "part": "rightEar",
+        "position": {
+          "x": 533.0083114669302,
+          "y": 106.37368389548465
+        }
+      },
+      {
+        "score": 0.9981130361557007,
+        "part": "leftShoulder",
+        "position": {
+          "x": 567.7697925963812,
+          "y": 158.49500036947097
+        }
+      },
+      {
+        "score": 0.9978846907615662,
+        "part": "rightShoulder",
+        "position": {
+          "x": 526.6989076880391,
+          "y": 161.00343300114753
+        }
+      },
+      {
+        "score": 0.9846584796905518,
+        "part": "leftElbow",
+        "position": {
+          "x": 467.3456688946008,
+          "y": 152.7409535756097
+        }
+      },
+      {
+        "score": 0.9978401064872742,
+        "part": "rightElbow",
+        "position": {
+          "x": 445.30279776462817,
+          "y": 175.86178797147397
+        }
+      },
+      {
+        "score": 0.9973004460334778,
+        "part": "leftWrist",
+        "position": {
+          "x": 463.75660836873493,
+          "y": 62.38377135868245
+        }
+      },
+      {
+        "score": 0.9895275831222534,
+        "part": "rightWrist",
+        "position": {
+          "x": 406.6388958215006,
+          "y": 69.79126845905972
+        }
+      },
+      {
+        "score": 0.9967206120491028,
+        "part": "leftHip",
+        "position": {
+          "x": 598.3186417305152,
+          "y": 339.462504491608
+        }
+      },
+      {
+        "score": 0.9859966039657593,
+        "part": "rightHip",
+        "position": {
+          "x": 594.4194669185831,
+          "y": 341.14892351733477
+        }
+      },
+      {
+        "score": 0.9987859129905701,
+        "part": "leftKnee",
+        "position": {
+          "x": 469.63303427314196,
+          "y": 403.3355342514084
+        }
+      },
+      {
+        "score": 0.9912551045417786,
+        "part": "rightKnee",
+        "position": {
+          "x": 528.1507909757801,
+          "y": 424.5597346727502
+        }
+      },
+      {
+        "score": 0.989425778388977,
+        "part": "leftAnkle",
+        "position": {
+          "x": 569.70130897771,
+          "y": 521.2402978551848
+        }
+      },
+      {
+        "score": 0.9949849843978882,
+        "part": "rightAnkle",
+        "position": {
+          "x": 561.6699254972644,
+          "y": 532.1048594851169
+        }
+      }
+    ]
+  },
+  "bigToePose": {
+    "level":"intermediate",
+    "description": "This pose gently lengthens and strengthens even stubbornly tight hamstrings. It also aids in relieving headaches and stress while calming the brain and improving digestion.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/big-toe-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8265349514344159,
+    "keypoints": [
+      {
+        "score": 0.9628422260284424,
+        "part": "nose",
+        "position": {
+          "x": 520.0537122958492,
+          "y": 384.65334077829425
+        }
+      },
+      {
+        "score": 0.7685929536819458,
+        "part": "leftEye",
+        "position": {
+          "x": 505.03848339046857,
+          "y": 388.8416035366341
+        }
+      },
+      {
+        "score": 0.8465250730514526,
+        "part": "rightEye",
+        "position": {
+          "x": 508.83344701206653,
+          "y": 383.81858540430267
+        }
+      },
+      {
+        "score": 0.8608841896057129,
+        "part": "leftEar",
+        "position": {
+          "x": 499.7897954652147,
+          "y": 370.4329462702268
+        }
+      },
+      {
+        "score": 0.7392808794975281,
+        "part": "rightEar",
+        "position": {
+          "x": 495.6930505769543,
+          "y": 412.21732174112117
+        }
+      },
+      {
+        "score": 0.9403449892997742,
+        "part": "leftShoulder",
+        "position": {
+          "x": 434.0898965445046,
+          "y": 269.7111109159113
+        }
+      },
+      {
+        "score": 0.8607555627822876,
+        "part": "rightShoulder",
+        "position": {
+          "x": 551.2598525593472,
+          "y": 250.07992218651475
+        }
+      },
+      {
+        "score": 0.7297718524932861,
+        "part": "leftElbow",
+        "position": {
+          "x": 472.69173687218915,
+          "y": 368.9440973208283
+        }
+      },
+      {
+        "score": 0.8032830953598022,
+        "part": "rightElbow",
+        "position": {
+          "x": 602.7051043864174,
+          "y": 338.15523784875165
+        }
+      },
+      {
+        "score": 0.5841417908668518,
+        "part": "leftWrist",
+        "position": {
+          "x": 458.11815799520707,
+          "y": 464.33086234525695
+        }
+      },
+      {
+        "score": 0.785871684551239,
+        "part": "rightWrist",
+        "position": {
+          "x": 461.01737047868954,
+          "y": 516.154733629538
+        }
+      },
+      {
+        "score": 0.9238512516021729,
+        "part": "leftHip",
+        "position": {
+          "x": 600.6827484040303,
+          "y": 53.18276139890406
+        }
+      },
+      {
+        "score": 0.832407534122467,
+        "part": "rightHip",
+        "position": {
+          "x": 632.9527536273357,
+          "y": 92.45097681605853
+        }
+      },
+      {
+        "score": 0.5643503069877625,
+        "part": "leftKnee",
+        "position": {
+          "x": 481.50841053586333,
+          "y": 312.86980476718986
+        }
+      },
+      {
+        "score": 0.9987748265266418,
+        "part": "rightKnee",
+        "position": {
+          "x": 633.6240946149968,
+          "y": 283.85490947236644
+        }
+      },
+      {
+        "score": 0.9726698398590088,
+        "part": "leftAnkle",
+        "position": {
+          "x": 616.1970379656783,
+          "y": 522.6718815200761
+        }
+      },
+      {
+        "score": 0.8767461180686951,
+        "part": "rightAnkle",
+        "position": {
+          "x": 609.2989451241423,
+          "y": 518.4476705036108
+        }
+      }
+    ]
+  },
+  "craneCrowPose": {
+    "level":"intermediate",
+    "description": "A compact arm balance, crane pose/crow pose, called Bakasana in Sanskrit, encourages toning in the abs and the arms, strengthening in the core, and improves focus in the mind. It also stretches the upper back and opens the groins.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/editcrowhp_292_9_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8332463143502965,
+    "keypoints": [
+      {
+        "score": 0.9547379016876221,
+        "part": "nose",
+        "position": {
+          "x": 705.3688239485291,
+          "y": 363.5948317892828
+        }
+      },
+      {
+        "score": 0.23448209464550018,
+        "part": "leftEye",
+        "position": {
+          "x": 717.4689979440027,
+          "y": 349.8185096989754
+        }
+      },
+      {
+        "score": 0.9581590890884399,
+        "part": "rightEye",
+        "position": {
+          "x": 701.990850431629,
+          "y": 346.5717812376844
+        }
+      },
+      {
+        "score": 0.09737652540206909,
+        "part": "leftEar",
+        "position": {
+          "x": 676.1956012850346,
+          "y": 321.4845965014721
+        }
+      },
+      {
+        "score": 0.9914695024490356,
+        "part": "rightEar",
+        "position": {
+          "x": 670.1121579857892,
+          "y": 316.33023641795717
+        }
+      },
+      {
+        "score": 0.9456276297569275,
+        "part": "leftShoulder",
+        "position": {
+          "x": 600.9747432176721,
+          "y": 284.84687791592296
+        }
+      },
+      {
+        "score": 0.9955574870109558,
+        "part": "rightShoulder",
+        "position": {
+          "x": 604.4346903905671,
+          "y": 306.174272124067
+        }
+      },
+      {
+        "score": 0.5802457332611084,
+        "part": "leftElbow",
+        "position": {
+          "x": 547.8409406622369,
+          "y": 370.82096459816046
+        }
+      },
+      {
+        "score": 0.9844983220100403,
+        "part": "rightElbow",
+        "position": {
+          "x": 566.71474513385,
+          "y": 372.5939598196692
+        }
+      },
+      {
+        "score": 0.7784038782119751,
+        "part": "leftWrist",
+        "position": {
+          "x": 526.1466998091792,
+          "y": 497.6534441939448
+        }
+      },
+      {
+        "score": 0.8686427474021912,
+        "part": "rightWrist",
+        "position": {
+          "x": 513.9091763369054,
+          "y": 477.5816228396815
+        }
+      },
+      {
+        "score": 0.944725751876831,
+        "part": "leftHip",
+        "position": {
+          "x": 413.7842177212769,
+          "y": 214.5763663000452
+        }
+      },
+      {
+        "score": 0.986916184425354,
+        "part": "rightHip",
+        "position": {
+          "x": 447.82823556962285,
+          "y": 215.03996317605947
+        }
+      },
+      {
+        "score": 0.9075029492378235,
+        "part": "leftKnee",
+        "position": {
+          "x": 473.2124536893488,
+          "y": 335.44463260095984
+        }
+      },
+      {
+        "score": 0.9933473467826843,
+        "part": "rightKnee",
+        "position": {
+          "x": 525.4156226998621,
+          "y": 356.18697133050125
+        }
+      },
+      {
+        "score": 0.9599499702453613,
+        "part": "leftAnkle",
+        "position": {
+          "x": 377.48914611091953,
+          "y": 345.9881307449115
+        }
+      },
+      {
+        "score": 0.9835442304611206,
+        "part": "rightAnkle",
+        "position": {
+          "x": 506.9348751260548,
+          "y": 507.1335618559614
+        }
+      }
+    ]
+  },
+  "handStandPose": {
+    "level":"intermediate",
+    "description": "The downward hand stand pose helps in boosting the body's energy and building confidence in the mind. It also boosts energy, improves boddy awarness, and strengthens the core, back, shoulders, thighs, and buttocks.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/201506-yjmag-handstand-final.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8667665930355296,
+    "keypoints": [
+      {
+        "score": 0.9786984920501709,
+        "part": "nose",
+        "position": {
+          "x": 448.1785615190908,
+          "y": 458.0703423836819
+        }
+      },
+      {
+        "score": 0.950798511505127,
+        "part": "leftEye",
+        "position": {
+          "x": 452.50233273831606,
+          "y": 450.6619005514535
+        }
+      },
+      {
+        "score": 0.9601361751556396,
+        "part": "rightEye",
+        "position": {
+          "x": 434.7715084630587,
+          "y": 464.28624193321707
+        }
+      },
+      {
+        "score": 0.9444395899772644,
+        "part": "leftEar",
+        "position": {
+          "x": 462.1676178431299,
+          "y": 433.66554473061944
+        }
+      },
+      {
+        "score": 0.646668016910553,
+        "part": "rightEar",
+        "position": {
+          "x": 437.5712091915685,
+          "y": 449.9716164789851
+        }
+      },
+      {
+        "score": 0.9937904477119446,
+        "part": "leftShoulder",
+        "position": {
+          "x": 506.76361219819296,
+          "y": 399.27449538233725
+        }
+      },
+      {
+        "score": 0.9421383738517761,
+        "part": "rightShoulder",
+        "position": {
+          "x": 496.28241790862046,
+          "y": 425.0699383200807
+        }
+      },
+      {
+        "score": 0.948492169380188,
+        "part": "leftElbow",
+        "position": {
+          "x": 521.1835631418653,
+          "y": 459.718051627411
+        }
+      },
+      {
+        "score": 0.8835604786872864,
+        "part": "rightElbow",
+        "position": {
+          "x": 513.0526194586598,
+          "y": 509.79557397316046
+        }
+      },
+      {
+        "score": 0.9555469155311584,
+        "part": "leftWrist",
+        "position": {
+          "x": 517.9769010006144,
+          "y": 562.2495571781691
+        }
+      },
+      {
+        "score": 0.8958504796028137,
+        "part": "rightWrist",
+        "position": {
+          "x": 514.8060902219145,
+          "y": 106.36135393363435
+        }
+      },
+      {
+        "score": 0.9874353408813477,
+        "part": "leftHip",
+        "position": {
+          "x": 546.5322205857636,
+          "y": 350.14175333538117
+        }
+      },
+      {
+        "score": 0.981704831123352,
+        "part": "rightHip",
+        "position": {
+          "x": 532.9089450553192,
+          "y": 360.2265962776162
+        }
+      },
+      {
+        "score": 0.6324357986450195,
+        "part": "leftKnee",
+        "position": {
+          "x": 558.6386927935773,
+          "y": 217.11333467840092
+        }
+      },
+      {
+        "score": 0.7870230674743652,
+        "part": "rightKnee",
+        "position": {
+          "x": 531.8105368232161,
+          "y": 207.61364411034288
+        }
+      },
+      {
+        "score": 0.7084732055664062,
+        "part": "leftAnkle",
+        "position": {
+          "x": 533.840159973688,
+          "y": 556.7602290937384
+        }
+      },
+      {
+        "score": 0.5378401875495911,
+        "part": "rightAnkle",
+        "position": {
+          "x": 525.2869938247636,
+          "y": 517.0291677412719
+        }
+      }
+    ]
+  },
+  "lordOfTheDancePose": {
+    "level": "advanced",
+    "description": "Nataraja is another name for Shiva and his dance symbolizes cosmic energy. Natarajasana, or Lord of the dance pose. This pose helps in stretching out the shoulders, chest, thighs, groins, and abdomen. It also improves overall balance.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/3enneagram_289_1454_bjk.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9264807017410502,
+    "keypoints": [
+      {
+        "score": 0.974780261516571,
+        "part": "nose",
+        "position": {
+          "x": 625.3488734214171,
+          "y": 246.2381580024516
+        }
+      },
+      {
+        "score": 0.7236757278442383,
+        "part": "leftEye",
+        "position": {
+          "x": 646.389214490217,
+          "y": 245.98603571770104
+        }
+      },
+      {
+        "score": 0.9902817010879517,
+        "part": "rightEye",
+        "position": {
+          "x": 609.0816567984109,
+          "y": 234.0340635033673
+        }
+      },
+      {
+        "score": 0.3373427093029022,
+        "part": "leftEar",
+        "position": {
+          "x": 622.4762103253373,
+          "y": 246.02489084306035
+        }
+      },
+      {
+        "score": 0.9962490200996399,
+        "part": "rightEar",
+        "position": {
+          "x": 583.7842086656158,
+          "y": 237.1737223548776
+        }
+      },
+      {
+        "score": 0.995462954044342,
+        "part": "leftShoulder",
+        "position": {
+          "x": 582.8388469933757,
+          "y": 282.54376700653165
+        }
+      },
+      {
+        "score": 0.99552321434021,
+        "part": "rightShoulder",
+        "position": {
+          "x": 525.466977354327,
+          "y": 250.30539818828822
+        }
+      },
+      {
+        "score": 0.9966331124305725,
+        "part": "leftElbow",
+        "position": {
+          "x": 617.6554132569084,
+          "y": 308.61608904830075
+        }
+      },
+      {
+        "score": 0.9627515077590942,
+        "part": "rightElbow",
+        "position": {
+          "x": 480.6133861145563,
+          "y": 236.7137106151185
+        }
+      },
+      {
+        "score": 0.9721616506576538,
+        "part": "leftWrist",
+        "position": {
+          "x": 697.6723115734247,
+          "y": 300.23471875289783
+        }
+      },
+      {
+        "score": 0.8377382159233093,
+        "part": "rightWrist",
+        "position": {
+          "x": 411.273411148026,
+          "y": 195.75662955898207
+        }
+      },
+      {
+        "score": 0.9868242144584656,
+        "part": "leftHip",
+        "position": {
+          "x": 502.2985672314019,
+          "y": 365.301065959987
+        }
+      },
+      {
+        "score": 0.9975863695144653,
+        "part": "rightHip",
+        "position": {
+          "x": 451.85967284069574,
+          "y": 340.190432494755
+        }
+      },
+      {
+        "score": 0.9963518381118774,
+        "part": "leftKnee",
+        "position": {
+          "x": 475.9662259155636,
+          "y": 435.67680616973064
+        }
+      },
+      {
+        "score": 0.9982014298439026,
+        "part": "rightKnee",
+        "position": {
+          "x": 468.18299200131565,
+          "y": 432.5079817503072
+        }
+      },
+      {
+        "score": 0.9929928779602051,
+        "part": "leftAnkle",
+        "position": {
+          "x": 498.6050532762658,
+          "y": 529.957798898397
+        }
+      },
+      {
+        "score": 0.9956151247024536,
+        "part": "rightAnkle",
+        "position": {
+          "x": 444.400603070811,
+          "y": 523.6695183547386
+        }
+      }
+    ]
+  },
+  "sideRecliningLegLiftPose": {
+    "level":"advanced",
+    "description": "This side-reclining pose stretches the backs of the legs, the sides of the torso, and tones the belly.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2008/06/side-reclining-leg-lift.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8019605682176703,
+    "keypoints": [
+      {
+        "score": 0.9918310046195984,
+        "part": "nose",
+        "position": {
+          "x": 223.96266246761698,
+          "y": 398.7431200519868
+        }
+      },
+      {
+        "score": 0.9820603132247925,
+        "part": "leftEye",
+        "position": {
+          "x": 228.89910440416648,
+          "y": 377.4268203871187
+        }
+      },
+      {
+        "score": 0.9971959590911865,
+        "part": "rightEye",
+        "position": {
+          "x": 193.23949819502562,
+          "y": 400.48699815336965
+        }
+      },
+      {
+        "score": 0.4231230318546295,
+        "part": "leftEar",
+        "position": {
+          "x": 263.29105003651244,
+          "y": 389.9014473301013
+        }
+      },
+      {
+        "score": 0.9978691935539246,
+        "part": "rightEar",
+        "position": {
+          "x": 188.262360117202,
+          "y": 429.1170242264292
+        }
+      },
+      {
+        "score": 0.9889631867408752,
+        "part": "leftShoulder",
+        "position": {
+          "x": 335.16237343807956,
+          "y": 390.043932272348
+        }
+      },
+      {
+        "score": 0.9830470681190491,
+        "part": "rightShoulder",
+        "position": {
+          "x": 205.692783887733,
+          "y": 486.65744371725475
+        }
+      },
+      {
+        "score": 0.9986853003501892,
+        "part": "leftElbow",
+        "position": {
+          "x": 307.67186354458863,
+          "y": 253.18261537636778
+        }
+      },
+      {
+        "score": 0.9989343285560608,
+        "part": "rightElbow",
+        "position": {
+          "x": 112.00295105886036,
+          "y": 533.7824610135676
+        }
+      },
+      {
+        "score": 0.9654533267021179,
+        "part": "leftWrist",
+        "position": {
+          "x": 275.541630187445,
+          "y": 135.58782071529583
+        }
+      },
+      {
+        "score": 0.9970990419387817,
+        "part": "rightWrist",
+        "position": {
+          "x": 155.6299169976209,
+          "y": 460.45998104106786
+        }
+      },
+      {
+        "score": 0.670907735824585,
+        "part": "leftHip",
+        "position": {
+          "x": 524.6557676049298,
+          "y": 485.7780194834362
+        }
+      },
+      {
+        "score": 0.8423495888710022,
+        "part": "rightHip",
+        "position": {
+          "x": 498.7763162041277,
+          "y": 457.09135794710335
+        }
+      },
+      {
+        "score": 0.39194488525390625,
+        "part": "leftKnee",
+        "position": {
+          "x": 445.0477201648565,
+          "y": 263.8411770149933
+        }
+      },
+      {
+        "score": 0.432551771402359,
+        "part": "rightKnee",
+        "position": {
+          "x": 550.002099555041,
+          "y": 487.84388157875674
+        }
+      },
+      {
+        "score": 0.4920160472393036,
+        "part": "leftAnkle",
+        "position": {
+          "x": 895.71606191754,
+          "y": 558.2439425776904
+        }
+      },
+      {
+        "score": 0.4792978763580322,
+        "part": "rightAnkle",
+        "position": {
+          "x": 918.7633525723874,
+          "y": 551.9881220514768
+        }
+      }
+    ]
+  },
+  "fireFlyPose": {
+    "level":"advanced",
+    "description": "Want to fly? Fire up your core. Firefly pose is an arm balance pose that requires more core strength than arm strength. It tones the belly, improves the sense of balance, and strengthens the arms and wrists.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/firefly-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9252211992793223,
+    "keypoints": [
+      {
+        "score": 0.9996663331985474,
+        "part": "nose",
+        "position": {
+          "x": 549.6356404924252,
+          "y": 176.93815246038696
+        }
+      },
+      {
+        "score": 0.9803084135055542,
+        "part": "leftEye",
+        "position": {
+          "x": 524.7596396607532,
+          "y": 156.24309877118304
+        }
+      },
+      {
+        "score": 0.999624490737915,
+        "part": "rightEye",
+        "position": {
+          "x": 521.8581016834837,
+          "y": 151.00729795733264
+        }
+      },
+      {
+        "score": 0.03283366188406944,
+        "part": "leftEar",
+        "position": {
+          "x": 533.9907356964021,
+          "y": 150.71319566494634
+        }
+      },
+      {
+        "score": 0.9991878867149353,
+        "part": "rightEar",
+        "position": {
+          "x": 467.04534106155535,
+          "y": 167.79261521698817
+        }
+      },
+      {
+        "score": 0.9984813332557678,
+        "part": "leftShoulder",
+        "position": {
+          "x": 529.8150209149551,
+          "y": 257.4830832099349
+        }
+      },
+      {
+        "score": 0.996038556098938,
+        "part": "rightShoulder",
+        "position": {
+          "x": 390.060377941641,
+          "y": 259.2644598986346
+        }
+      },
+      {
+        "score": 0.9924107789993286,
+        "part": "leftElbow",
+        "position": {
+          "x": 602.981741251507,
+          "y": 246.9629853472158
+        }
+      },
+      {
+        "score": 0.9994807243347168,
+        "part": "rightElbow",
+        "position": {
+          "x": 322.8563932424483,
+          "y": 421.7573693159426
+        }
+      },
+      {
+        "score": 0.9932258725166321,
+        "part": "leftWrist",
+        "position": {
+          "x": 720.6864639418062,
+          "y": 173.48149973702363
+        }
+      },
+      {
+        "score": 0.9871752858161926,
+        "part": "rightWrist",
+        "position": {
+          "x": 273.03671002034264,
+          "y": 530.2010552380842
+        }
+      },
+      {
+        "score": 0.9328383207321167,
+        "part": "leftHip",
+        "position": {
+          "x": 241.60022475245447,
+          "y": 382.29049374724707
+        }
+      },
+      {
+        "score": 0.9820058345794678,
+        "part": "rightHip",
+        "position": {
+          "x": 246.9523971512339,
+          "y": 396.7180025457275
+        }
+      },
+      {
+        "score": 0.9634531140327454,
+        "part": "leftKnee",
+        "position": {
+          "x": 509.0893966720083,
+          "y": 315.1371127618173
+        }
+      },
+      {
+        "score": 0.947310209274292,
+        "part": "rightKnee",
+        "position": {
+          "x": 366.36521925204585,
+          "y": 316.9657744908545
+        }
+      },
+      {
+        "score": 0.9694252014160156,
+        "part": "leftAnkle",
+        "position": {
+          "x": 471.05362029033176,
+          "y": 518.5275609047548
+        }
+      },
+      {
+        "score": 0.9552943706512451,
+        "part": "rightAnkle",
+        "position": {
+          "x": 260.4363368456017,
+          "y": 535.5902901940955
+        }
+      }
+    ]
+  },
+  "sageKoundinyaIIPose": {
+    "level":"advanced",
+    "description": "A pose dedicated to the Sage Koundinya II. This pose, tones the belly and spine, strengthens the arms and wrists, and gives your self-confidence a big boost.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/eka-pada-koundinyasana-coby-kozlowski.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8743773278068093,
+    "keypoints": [
+      {
+        "score": 0.9542067646980286,
+        "part": "nose",
+        "position": {
+          "x": 173.1122404602232,
+          "y": 500.5522690951294
+        }
+      },
+      {
+        "score": 0.9638122916221619,
+        "part": "leftEye",
+        "position": {
+          "x": 177.8726594738154,
+          "y": 471.76590201267504
+        }
+      },
+      {
+        "score": 0.9972628355026245,
+        "part": "rightEye",
+        "position": {
+          "x": 172.72934548578914,
+          "y": 514.1850403918711
+        }
+      },
+      {
+        "score": 0.9270256757736206,
+        "part": "leftEar",
+        "position": {
+          "x": 159.2744865757068,
+          "y": 419.361093311706
+        }
+      },
+      {
+        "score": 0.7267430424690247,
+        "part": "rightEar",
+        "position": {
+          "x": 176.24991295245707,
+          "y": 539.6336940686144
+        }
+      },
+      {
+        "score": 0.9073560237884521,
+        "part": "leftShoulder",
+        "position": {
+          "x": 252.58573628320894,
+          "y": 376.22904574340464
+        }
+      },
+      {
+        "score": 0.8087072968482971,
+        "part": "rightShoulder",
+        "position": {
+          "x": 260.246033937358,
+          "y": 482.78694999536356
+        }
+      },
+      {
+        "score": 0.9875669479370117,
+        "part": "leftElbow",
+        "position": {
+          "x": 500.938347157102,
+          "y": 421.27671881882304
+        }
+      },
+      {
+        "score": 0.9509121179580688,
+        "part": "rightElbow",
+        "position": {
+          "x": 434.8749929365843,
+          "y": 375.31885716469424
+        }
+      },
+      {
+        "score": 0.9971460700035095,
+        "part": "leftWrist",
+        "position": {
+          "x": 512.079012726464,
+          "y": 533.2090814516878
+        }
+      },
+      {
+        "score": 0.9610463380813599,
+        "part": "rightWrist",
+        "position": {
+          "x": 389.24190102415906,
+          "y": 467.7107737736462
+        }
+      },
+      {
+        "score": 0.8827894330024719,
+        "part": "leftHip",
+        "position": {
+          "x": 507.7553384028132,
+          "y": 264.69744320651546
+        }
+      },
+      {
+        "score": 0.8972246050834656,
+        "part": "rightHip",
+        "position": {
+          "x": 480.60776617123753,
+          "y": 278.0789642786767
+        }
+      },
+      {
+        "score": 0.8177111744880676,
+        "part": "leftKnee",
+        "position": {
+          "x": 377.24945068359375,
+          "y": 402.2568442687083
+        }
+      },
+      {
+        "score": 0.9470173716545105,
+        "part": "rightKnee",
+        "position": {
+          "x": 398.17719909486857,
+          "y": 372.9690425884122
+        }
+      },
+      {
+        "score": 0.6567437648773193,
+        "part": "leftAnkle",
+        "position": {
+          "x": 488.4252042232706,
+          "y": 542.3858190700633
+        }
+      },
+      {
+        "score": 0.4811428189277649,
+        "part": "rightAnkle",
+        "position": {
+          "x": 296.42458861942464,
+          "y": 404.2531353415651
+        }
+      }
+    ]
+  },
+  "shoulderPressingPose": {
+    "level": "advanced",
+    "description": "This arm balance relies more on precise positioning than on strength, making it more accessible for students beginning an arm balancing practice.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2008/05/bhujapidasana-shoulder-pressing-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.9604762862710392,
+    "keypoints": [
+      {
+        "score": 0.9999572038650513,
+        "part": "nose",
+        "position": {
+          "x": 613.7394270628072,
+          "y": 119.65513606312015
+        }
+      },
+      {
+        "score": 0.9998178482055664,
+        "part": "leftEye",
+        "position": {
+          "x": 653.034845912492,
+          "y": 93.42501957833946
+        }
+      },
+      {
+        "score": 0.999763548374176,
+        "part": "rightEye",
+        "position": {
+          "x": 595.4154565284797,
+          "y": 91.7027491900617
+        }
+      },
+      {
+        "score": 0.9985185265541077,
+        "part": "leftEar",
+        "position": {
+          "x": 701.8412436646595,
+          "y": 100.47332478418548
+        }
+      },
+      {
+        "score": 0.6212520599365234,
+        "part": "rightEar",
+        "position": {
+          "x": 589.5367051302857,
+          "y": 89.86471281419523
+        }
+      },
+      {
+        "score": 0.9976329803466797,
+        "part": "leftShoulder",
+        "position": {
+          "x": 729.0597919045288,
+          "y": 180.73989877219725
+        }
+      },
+      {
+        "score": 0.9996461868286133,
+        "part": "rightShoulder",
+        "position": {
+          "x": 565.7308190229738,
+          "y": 174.53441549691672
+        }
+      },
+      {
+        "score": 0.9659599661827087,
+        "part": "leftElbow",
+        "position": {
+          "x": 757.3523791395239,
+          "y": 380.09178781933883
+        }
+      },
+      {
+        "score": 0.9886272549629211,
+        "part": "rightElbow",
+        "position": {
+          "x": 527.2018926150721,
+          "y": 319.58539479422643
+        }
+      },
+      {
+        "score": 0.9955371618270874,
+        "part": "leftWrist",
+        "position": {
+          "x": 685.8411681404453,
+          "y": 455.44626488388474
+        }
+      },
+      {
+        "score": 0.9942740797996521,
+        "part": "rightWrist",
+        "position": {
+          "x": 578.884635495149,
+          "y": 423.23415476632056
+        }
+      },
+      {
+        "score": 0.9062715768814087,
+        "part": "leftHip",
+        "position": {
+          "x": 740.9666107811631,
+          "y": 392.2908437485511
+        }
+      },
+      {
+        "score": 0.9689225554466248,
+        "part": "rightHip",
+        "position": {
+          "x": 630.0288812201526,
+          "y": 381.50263583129527
+        }
+      },
+      {
+        "score": 0.9856614470481873,
+        "part": "leftKnee",
+        "position": {
+          "x": 896.0955049871337,
+          "y": 254.40451701812293
+        }
+      },
+      {
+        "score": 0.969844400882721,
+        "part": "rightKnee",
+        "position": {
+          "x": 501.59762464574254,
+          "y": 265.9369798428227
+        }
+      },
+      {
+        "score": 0.9515278935432434,
+        "part": "leftAnkle",
+        "position": {
+          "x": 836.1692742141136,
+          "y": 495.9296234764756
+        }
+      },
+      {
+        "score": 0.9848821759223938,
+        "part": "rightAnkle",
+        "position": {
+          "x": 494.8278215447944,
+          "y": 552.8443397952117
+        }
+      }
+    ]
+  },
+  "lotusPose": {
+    "level":"advanced",
+    "description": "Lotus pose, or Padmasana in Sanskrit, requires open hips and consistent practice. This pose creates an essential foundation for meditation practice while helping to manage stress with a conscious stretch in the front of the thighs and ankles.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/ccd04508.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8424998098874793,
+    "keypoints": [
+      {
+        "score": 0.9976710677146912,
+        "part": "nose",
+        "position": {
+          "x": 516.1061865922605,
+          "y": 131.09370707616608
+        }
+      },
+      {
+        "score": 0.9987632036209106,
+        "part": "leftEye",
+        "position": {
+          "x": 530.8598458943806,
+          "y": 116.40603366025482
+        }
+      },
+      {
+        "score": 0.3953568637371063,
+        "part": "rightEye",
+        "position": {
+          "x": 518.0682735273322,
+          "y": 117.5990604208202
+        }
+      },
+      {
+        "score": 0.99969083070755,
+        "part": "leftEar",
+        "position": {
+          "x": 582.9807021143882,
+          "y": 139.51112252526895
+        }
+      },
+      {
+        "score": 0.03606989607214928,
+        "part": "rightEar",
+        "position": {
+          "x": 607.6917866783256,
+          "y": 129.974127161043
+        }
+      },
+      {
+        "score": 0.9940848350524902,
+        "part": "leftShoulder",
+        "position": {
+          "x": 591.327868272006,
+          "y": 233.91798260516163
+        }
+      },
+      {
+        "score": 0.9908477663993835,
+        "part": "rightShoulder",
+        "position": {
+          "x": 561.2124330424414,
+          "y": 209.6237428025605
+        }
+      },
+      {
+        "score": 0.9969958066940308,
+        "part": "leftElbow",
+        "position": {
+          "x": 527.5784288174322,
+          "y": 350.56862678867424
+        }
+      },
+      {
+        "score": 0.9957523345947266,
+        "part": "rightElbow",
+        "position": {
+          "x": 525.3237172474848,
+          "y": 331.91070565696293
+        }
+      },
+      {
+        "score": 0.9608750343322754,
+        "part": "leftWrist",
+        "position": {
+          "x": 471.6074753939575,
+          "y": 383.6587561542274
+        }
+      },
+      {
+        "score": 0.9489375352859497,
+        "part": "rightWrist",
+        "position": {
+          "x": 468.86649338357176,
+          "y": 360.3203427459083
+        }
+      },
+      {
+        "score": 0.9962283372879028,
+        "part": "leftHip",
+        "position": {
+          "x": 572.4040172361832,
+          "y": 437.25693075027243
+        }
+      },
+      {
+        "score": 0.9684367775917053,
+        "part": "rightHip",
+        "position": {
+          "x": 553.4134535973433,
+          "y": 381.26005776062925
+        }
+      },
+      {
+        "score": 0.9200770854949951,
+        "part": "leftKnee",
+        "position": {
+          "x": 426.34362829191394,
+          "y": 464.8271130298649
+        }
+      },
+      {
+        "score": 0.9332261085510254,
+        "part": "rightKnee",
+        "position": {
+          "x": 418.23405008287745,
+          "y": 414.9503098666138
+        }
+      },
+      {
+        "score": 0.4466996192932129,
+        "part": "leftAnkle",
+        "position": {
+          "x": 436.98063066522167,
+          "y": 411.07831426331836
+        }
+      },
+      {
+        "score": 0.7427836656570435,
+        "part": "rightAnkle",
+        "position": {
+          "x": 448.0617054562894,
+          "y": 414.5625822254034
+        }
+      }
+    ]
+  },
+  "peacockPose": {
+    "level":"advanced",
+    "description": "The peacock pose, called Mayurasana in Sanskrit, works to lovingly strengthen the core while stretching the palm side of the wrists, the wrists flexors, which counteracts the effects of typing.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2008/05/peacock-master.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.8615898034151863,
+    "keypoints": [
+      {
+        "score": 0.9722595810890198,
+        "part": "nose",
+        "position": {
+          "x": 310.33855087325554,
+          "y": 445.88572389506453
+        }
+      },
+      {
+        "score": 0.9703406095504761,
+        "part": "leftEye",
+        "position": {
+          "x": 306.63944119869427,
+          "y": 434.431746485679
+        }
+      },
+      {
+        "score": 0.9240528345108032,
+        "part": "rightEye",
+        "position": {
+          "x": 296.5162033850786,
+          "y": 440.90509757656025
+        }
+      },
+      {
+        "score": 0.935638427734375,
+        "part": "leftEar",
+        "position": {
+          "x": 319.1645265120781,
+          "y": 403.5559232355225
+        }
+      },
+      {
+        "score": 0.596439003944397,
+        "part": "rightEar",
+        "position": {
+          "x": 296.5663468448628,
+          "y": 419.45130309153035
+        }
+      },
+      {
+        "score": 0.9768041968345642,
+        "part": "leftShoulder",
+        "position": {
+          "x": 348.6272973759592,
+          "y": 402.94451216066625
+        }
+      },
+      {
+        "score": 0.9364749193191528,
+        "part": "rightShoulder",
+        "position": {
+          "x": 328.1838814936335,
+          "y": 426.32638323413164
+        }
+      },
+      {
+        "score": 0.9189231991767883,
+        "part": "leftElbow",
+        "position": {
+          "x": 418.4312810246952,
+          "y": 398.98855654209945
+        }
+      },
+      {
+        "score": 0.8390923142433167,
+        "part": "rightElbow",
+        "position": {
+          "x": 298.9551861137594,
+          "y": 413.4157746538565
+        }
+      },
+      {
+        "score": 0.8395828604698181,
+        "part": "leftWrist",
+        "position": {
+          "x": 736.2797233966409,
+          "y": 330.48508106990107
+        }
+      },
+      {
+        "score": 0.6755046844482422,
+        "part": "rightWrist",
+        "position": {
+          "x": 300.18297416166314,
+          "y": 441.9849987539411
+        }
+      },
+      {
+        "score": 0.95820152759552,
+        "part": "leftHip",
+        "position": {
+          "x": 480.7979237361195,
+          "y": 374.67643950601007
+        }
+      },
+      {
+        "score": 0.98109370470047,
+        "part": "rightHip",
+        "position": {
+          "x": 494.2394716166601,
+          "y": 365.4696642595512
+        }
+      },
+      {
+        "score": 0.947163999080658,
+        "part": "leftKnee",
+        "position": {
+          "x": 479.3636269951433,
+          "y": 408.3204724229762
+        }
+      },
+      {
+        "score": 0.8847951292991638,
+        "part": "rightKnee",
+        "position": {
+          "x": 616.5616075645922,
+          "y": 365.5705810003535
+        }
+      },
+      {
+        "score": 0.6579057574272156,
+        "part": "leftAnkle",
+        "position": {
+          "x": 492.32583246881956,
+          "y": 486.50488163526404
+        }
+      },
+      {
+        "score": 0.6327539086341858,
+        "part": "rightAnkle",
+        "position": {
+          "x": 646.0098198684104,
+          "y": 377.1939318738989
+        }
+      }
+    ]
+  },
+  "sageKoundinyaIPose": {
+    "level":"advanced",
+    "description": "This pose dedicated to the Sage Koundinya I has a lot going on—the twist, the legs going their separate ways, oh, and the arm balance. It helps strengthening the arms and wrists while toning the belly and spine at the same time.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/nov-14-yogapedia-eka-pada-koundinyasana-1.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.7684156658018336,
+    "keypoints": [
+      {
+        "score": 0.9836217164993286,
+        "part": "nose",
+        "position": {
+          "x": 861.5826579017527,
+          "y": 407.8022264429653
+        }
+      },
+      {
+        "score": 0.39989492297172546,
+        "part": "leftEye",
+        "position": {
+          "x": 880.1561829881074,
+          "y": 396.8081154299773
+        }
+      },
+      {
+        "score": 0.9951227307319641,
+        "part": "rightEye",
+        "position": {
+          "x": 876.8630899944362,
+          "y": 371.38300737782833
+        }
+      },
+      {
+        "score": 0.16137097775936127,
+        "part": "leftEar",
+        "position": {
+          "x": 873.6285219277402,
+          "y": 356.07965948178435
+        }
+      },
+      {
+        "score": 0.9983040690422058,
+        "part": "rightEar",
+        "position": {
+          "x": 858.9927360919534,
+          "y": 340.0716869682516
+        }
+      },
+      {
+        "score": 0.9446558356285095,
+        "part": "leftShoulder",
+        "position": {
+          "x": 813.6875630274018,
+          "y": 373.9148887385247
+        }
+      },
+      {
+        "score": 0.9923964738845825,
+        "part": "rightShoulder",
+        "position": {
+          "x": 795.2557477186979,
+          "y": 376.9192813680859
+        }
+      },
+      {
+        "score": 0.716480553150177,
+        "part": "leftElbow",
+        "position": {
+          "x": 828.3175351287208,
+          "y": 455.65686741497825
+        }
+      },
+      {
+        "score": 0.9359731674194336,
+        "part": "rightElbow",
+        "position": {
+          "x": 635.840629328606,
+          "y": 368.4389322433699
+        }
+      },
+      {
+        "score": 0.8292688131332397,
+        "part": "leftWrist",
+        "position": {
+          "x": 882.4962111113688,
+          "y": 435.4906697711888
+        }
+      },
+      {
+        "score": 0.9812386631965637,
+        "part": "rightWrist",
+        "position": {
+          "x": 584.9300957292053,
+          "y": 509.47950060926496
+        }
+      },
+      {
+        "score": 0.8449520468711853,
+        "part": "leftHip",
+        "position": {
+          "x": 549.7429038933548,
+          "y": 230.04957213812133
+        }
+      },
+      {
+        "score": 0.8221191763877869,
+        "part": "rightHip",
+        "position": {
+          "x": 550.4447669869714,
+          "y": 292.19960479283543
+        }
+      },
+      {
+        "score": 0.7663782238960266,
+        "part": "leftKnee",
+        "position": {
+          "x": 651.04984317406,
+          "y": 406.4096916945823
+        }
+      },
+      {
+        "score": 0.6356180906295776,
+        "part": "rightKnee",
+        "position": {
+          "x": 648.94512595338,
+          "y": 388.4948627234213
+        }
+      },
+      {
+        "score": 0.48280537128448486,
+        "part": "leftAnkle",
+        "position": {
+          "x": 616.9348008696332,
+          "y": 501.90599716594033
+        }
+      },
+      {
+        "score": 0.5728654861450195,
+        "part": "rightAnkle",
+        "position": {
+          "x": 590.8308424228023,
+          "y": 446.80560203122104
+        }
+      }
+    ]
+  },
+  "upwardFacingTwoFootStaffPose": {
+    "level":"advanced",
+    "description": "Can you practice the headstand pose without strain? Then, you're ready. This pose stretches the entire front body and opens the chest.",
+    "imageResolution":"1070x602",
+    "imageAddress": "https://www.yogajournal.com/wp-content/uploads/2007/08/upward-facing-two-foot-staff-pose.jpg?crop=535:301&width=1070&enable=upscale",
+    "score": 0.7116066721432349,
+    "keypoints": [
+      {
+        "score": 0.8433049917221069,
+        "part": "nose",
+        "position": {
+          "x": 821.5889126469191,
+          "y": 370.2928352695544
+        }
+      },
+      {
+        "score": 0.9109202027320862,
+        "part": "leftEye",
+        "position": {
+          "x": 807.5080962138643,
+          "y": 357.61870033875425
+        }
+      },
+      {
+        "score": 0.6730722784996033,
+        "part": "rightEye",
+        "position": {
+          "x": 831.4241041415523,
+          "y": 379.60634099128345
+        }
+      },
+      {
+        "score": 0.8098873496055603,
+        "part": "leftEar",
+        "position": {
+          "x": 813.4023993517596,
+          "y": 335.1272026990217
+        }
+      },
+      {
+        "score": 0.6327614188194275,
+        "part": "rightEar",
+        "position": {
+          "x": 791.5351998982868,
+          "y": 377.6569958242535
+        }
+      },
+      {
+        "score": 0.8742634057998657,
+        "part": "leftShoulder",
+        "position": {
+          "x": 833.6059986872914,
+          "y": 446.3058631059324
+        }
+      },
+      {
+        "score": 0.8000297546386719,
+        "part": "rightShoulder",
+        "position": {
+          "x": 855.5205800766761,
+          "y": 279.6179566878593
+        }
+      },
+      {
+        "score": 0.9275621771812439,
+        "part": "leftElbow",
+        "position": {
+          "x": 874.2053412825135,
+          "y": 494.36136860380543
+        }
+      },
+      {
+        "score": 0.9009742140769958,
+        "part": "rightElbow",
+        "position": {
+          "x": 875.1848586447516,
+          "y": 475.1357363013203
+        }
+      },
+      {
+        "score": 0.9928066730499268,
+        "part": "leftWrist",
+        "position": {
+          "x": 756.923664670316,
+          "y": 478.982006129596
+        }
+      },
+      {
+        "score": 0.9831013679504395,
+        "part": "rightWrist",
+        "position": {
+          "x": 200.69173682691084,
+          "y": 446.4117699688196
+        }
+      },
+      {
+        "score": 0.40713927149772644,
+        "part": "leftHip",
+        "position": {
+          "x": 879.9062893015695,
+          "y": 185.76916666908153
+        }
+      },
+      {
+        "score": 0.6329629421234131,
+        "part": "rightHip",
+        "position": {
+          "x": 842.5780444046156,
+          "y": 169.30726261308712
+        }
+      },
+      {
+        "score": 0.9170371294021606,
+        "part": "leftKnee",
+        "position": {
+          "x": 377.76503203530694,
+          "y": 310.10987967199674
+        }
+      },
+      {
+        "score": 0.4033171534538269,
+        "part": "rightKnee",
+        "position": {
+          "x": 853.3111671877898,
+          "y": 327.42962447259833
+        }
+      },
+      {
+        "score": 0.12206923216581345,
+        "part": "leftAnkle",
+        "position": {
+          "x": 847.333291616921,
+          "y": 395.68751811132233
+        }
+      },
+      {
+        "score": 0.2661038637161255,
+        "part": "rightAnkle",
+        "position": {
+          "x": 183.7581935622218,
+          "y": 442.2873613940502
+        }
+      }
+    ]
+  }
+}
